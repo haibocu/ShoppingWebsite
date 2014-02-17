@@ -1,0 +1,29 @@
+<?php
+$CSize = 1;
+$CSizeWidth = 0;
+$CSizeHeight = 0;
+$CSrc = 'abcdefghijkmnpqrstuvwxyz23456789';
+$CType = 1;
+$CMinSize = 1;
+$CMaxSize = 9;
+$CBackgroundType = 0;
+$CBackgroundColor = '#FFFFFF';
+$CBackgroundFile = 'backgrounds/bluecircles.gif';
+$CBackgroundFillType = 1;
+$CFontUsed = 1;
+$CFontURL = 'fonts/font23.ttf';
+$FontNo = 34;
+$fonts_dir = 'fonts';
+$CFontColorType = 3;
+$CFontColor = '#FFFFFF';
+$CFontSizeMin = 25;
+$CFontSizeMax = 30;
+$CFontRotMin = -15;
+$CFontRotMax = 15;
+$CFontPadding = 2;
+$CNoise = 0;
+$CNoiseType = 0;
+$CNoiseColor = '#FFFFFF';
+$output_type = 'png';
+$captcha_type = 1;
+?>

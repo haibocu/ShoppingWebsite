@@ -1,0 +1,219 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*index.php css down*/
+.welcomebar {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #666;
+}
+.price {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #F00;
+	text-align: center;
+	vertical-align: middle;
+}
+.bookshowprice {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #F00;
+}
+
+.bookname {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000;
+	text-align: center;
+	vertical-align: middle;
+}
+a.welcomebara:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	text-decoration: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	color: #999;
+}
+a.welcomebara:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #999;
+	text-decoration: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+a.welcomebara:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #F03;
+	text-decoration: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+a.welcomebara:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #903;
+	text-decoration: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+a.leadingbara:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	text-decoration: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	color: #0033FF;
+	text-align: center;
+	vertical-align: middle;
+}
+a.leadingbara:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #008080;
+	text-decoration: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	text-align: center;
+	vertical-align: middle;
+}
+a.leadingbara:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #F03;
+	text-decoration: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	text-align: center;
+	vertical-align: middle;
+}
+a.leadingbara:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #903;
+	text-decoration: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	text-align: center;
+	vertical-align: middle;
+}
+a.contenta:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	color: #000000;
+	text-align: center;
+	vertical-align: middle;
+}
+a.contenta:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #CC66CC;
+	text-decoration: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	text-align: center;
+	vertical-align: middle;
+}
+a.contenta:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #F03;
+	text-decoration: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	text-align: center;
+	vertical-align: middle;
+	font-weight: normal;
+}
+.list {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #F09;
+	text-align: center;
+	vertical-align: middle;
+	padding: 5px;
+}
+
+a.contenta:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #903;
+	text-decoration: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	text-align: center;
+	vertical-align: middle;
+	font-weight: bold;
+}
+.listnumber {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #03F;
+}
+
+/*index.php css up*/
+
+/*bookshow.php css down*/
+.bookshowtable {
+	padding: 20px;
+	border: thin none #999;
+}
+.bookshowcontent {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #000;
+}
+.bookshowpreference {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #666;
+}
+/*bookshow.php css up*/
+
+/*login.php css down*/
+.titleforlogin {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #F90;
+	text-align: center;
+	vertical-align: middle;
+}
+.othersforlogin {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 16px;
+	color: #000;
+	text-align: center;
+	vertical-align: middle;
+}
+/*login.php css up*/
